@@ -1,14 +1,12 @@
 ~/bin/area_144h.pl
 
 #0 cellname/source_tab_comp3
-#1 area_change
+#1 areaChange
 #2 comment1
 #3 pdk01Area_in_PP
 #4 comment2
 
 
-#jq --slurpfile f2 data_empty.json '$f2[0] + . | group_by(.source_tab_comp3)[] | if .[1] then .[1] + .[0] else .[0] end | select(.NEEDED_FOR_144CH =="YES" and .OR_colKN=="Active") ' data.json > data_all.json
-
-jq -r '.[] | .source_tab_comp3 + " _AC "+ .area_change + " _C1 " + .comment1 + " _A " + .pdk01Area_in_PP + " _C2 "+ .comment2 ' area.json > tmp.src
+jq -r '.[] | .source_tab_comp3 + " _AC "+ .areaChange + " _C1 " + .comment1 + " _A " + .pdk01Area_in_PP + " _C2 "+ .comment2 ' area.json > tmp.src
 ~/bin/gen_cell_lines.py
 

@@ -1,0 +1,22 @@
+[
+   {
+      "126H_SPEC_STATUS" : "DROP",
+      "SEVERITY" : "DROP",
+      "NEEDED_FOR_108CH" : "NO",
+      "SPEC_DATE" : "24WW20.5",
+      "ERROR_MESSAGE" : "DROP",
+      "NEEDED_FOR_144CH" : "NO",
+      "OR_colKN" : "DROP",
+      "144H_CODING_STATUS" : "DROP",
+      "144H_SPEC_STATUS" : "DROP",
+      "126H_CODING_STATUS" : "DROP",
+      "RULENAME" : "DROP",
+      "144H_TESTING_STATUS" : "DROP",
+      "RULE_DEFINITION" : "DROP.",
+      "NEEDED_FOR_126CH" : "NO",
+      "PRIORITY" : "DROP",
+      "126H_TESTING_STATUS" : "DROP",
+      "Category" : "DROP",
+      "DA" : "DROP"
+   }
+]

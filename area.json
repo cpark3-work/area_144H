@@ -1,2077 +1,3031 @@
 [
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tand002at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mand002at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tand002at11c1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mand002at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tand002at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mand002at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tand002at11c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taob012at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0maob012at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taob012at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0maob012at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taob012at11c2x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0maob012at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taob012at11c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0maoi012at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0maoi012at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at11c2x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0maoi012at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at11c4x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0maoi012at12b4x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at12c4x5"
    },
    {
+      "area_126" : "10",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "#N/A",
+      "cell_126" : "k0maoi012at12b6x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi012at12c6x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0maoi022at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0maoi022at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at11c2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0maoi022at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at11c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0maoi022at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at12c4x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0maoi022at12b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0taoi022at12c6x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfm201at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfm201at11b2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mbfm201at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfm201at11c1x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "k0mbfm201at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfm201at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11b2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b3x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c3x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b4x5",
       "comment1" : "drive name update x6->x5 (previously x6)",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c6x5"
    },
    {
+      "area_126" : "12",
       "pdk01Area_in_PP" : "12",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at11b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at11c8x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at12b4x5",
       "comment1" : "drive name update x6->x5 (previously x6)",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at12c4x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at12b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at12c6x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at12c8x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mbfn000at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tbfn000at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11b2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11c1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11c2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at11b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11c6x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at11b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at11c8x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcbf000at12b8x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at12c8x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at12ccx5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mcbf000at12bgx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcbf000at12cgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at11b2x5"
    },
    {
+      "area_126" : "16",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "-1",
+      "cell_126" : "k0mcilb05at11b1x5",
       "comment1" : "SPC allowance? Sch change - VT mixing removal?",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at11c1x5"
    },
    {
+      "area_126" : "16",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "0",
+      "cell_126" : "k0mcilb05at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at11c2x5"
    },
    {
+      "area_126" : "19",
       "pdk01Area_in_PP" : "18",
       "areaChange" : "-1",
+      "cell_126" : "k0mcilb05at11b4x5",
       "comment1" : "SPC allowance? Sch change - VT mixing removal?",
+      "delta_126vs144" : "1",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at11c4x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcilb05at12b8x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at12c8x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcilb05at12bcx5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at12ccx5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcilb05at12bgx5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcilb05at12cgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11b2x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mcinv00at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11c1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "-1",
+      "cell_126" : "k0mcinv00at11b2x5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "-0.999999999999999",
+      "cell_126" : "k0mcinv00at11b4x5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11c4x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "-2",
+      "cell_126" : "k0mcinv00at11b6x5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11c6x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-2",
+      "cell_126" : "k0mcinv00at11b8x5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11c8x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "-3",
+      "cell_126" : "k0mcinv00at11bcx5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at11ccx5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcinv00at12b8x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at12c8x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mcinv00at12bcx5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at12ccx5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-2",
+      "cell_126" : "k0mcinv00at12bgx5",
       "comment1" : "Sch change - 1:1 P/N ratio",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tcinv00at12cgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11b2x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "k0mclb0a2at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11c1x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "k0mclb0a2at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mclb0a2at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11c4x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mclb0a2at11b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at11c6x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mclb0a2at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at12c8x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "k0mclb0a2at12bcx5",
       "comment1" : "SPC allowance? Sch change - VT mixing removal?",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tclb0a2at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "-0.999999999999998",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12b2x5"
    },
    {
+      "area_126" : "10",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "-1",
+      "cell_126" : "k0mfus000at12b1x4",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12c1x4"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mfus000at12b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12c1x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "-0.999999999999998",
+      "cell_126" : "k0mfus000at12b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12c2x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mfus000at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12c4x5"
    },
    {
+      "area_126" : "22",
       "pdk01Area_in_PP" : "22",
       "areaChange" : "-1",
+      "cell_126" : "k0mfus000at12b8x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus000at12c8x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "18",
       "areaChange" : "-3",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "20",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "20",
       "areaChange" : "-3",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12b2x5"
    },
    {
+      "area_126" : "18",
       "pdk01Area_in_PP" : "18",
       "areaChange" : "-3",
+      "cell_126" : "k0mfus200at12b1x4",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12c1x4"
    },
    {
+      "area_126" : "20",
       "pdk01Area_in_PP" : "20",
       "areaChange" : "-2",
+      "cell_126" : "k0mfus200at12b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12c1x5"
    },
    {
+      "area_126" : "20",
       "pdk01Area_in_PP" : "20",
       "areaChange" : "-3",
+      "cell_126" : "k0mfus200at12b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus200at12c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "18",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "19",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14b2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "-2",
+      "cell_126" : "k0mfus400at14b1x4",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14c1x4"
    },
    {
+      "area_126" : "18",
       "pdk01Area_in_PP" : "18",
       "areaChange" : "-2",
+      "cell_126" : "k0mfus400at14b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14c1x5"
    },
    {
+      "area_126" : "20",
       "pdk01Area_in_PP" : "19",
       "areaChange" : "-2",
+      "cell_126" : "k0mfus400at14b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "1",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfus400at14c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "12",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12b2x5"
    },
    {
+      "area_126" : "12",
       "pdk01Area_in_PP" : "12",
       "areaChange" : "0",
+      "cell_126" : "k0mfvs003at12b1x4",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12c1x4"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mfvs003at12b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12c1x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mfvs003at12b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12c2x5"
    },
    {
+      "area_126" : "16",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "-1",
+      "cell_126" : "k0mfvs003at12b4x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs003at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs00bat12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs00bat12b2x5"
    },
    {
+      "area_126" : "15",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "k0mfvs00bat12b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs00bat12c1x5"
    },
    {
+      "area_126" : "15",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "k0mfvs00bat12b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs00bat12c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs08bat12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs08bat12b2x5"
    },
    {
+      "area_126" : "15",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "k0mfvs08bat12b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs08bat12c1x5"
    },
    {
+      "area_126" : "15",
       "pdk01Area_in_PP" : "15",
       "areaChange" : "-1",
+      "cell_126" : "k0mfvs08bat12b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs08bat12c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "22",
       "areaChange" : "-3",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-3",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "24",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12b2x5"
    },
    {
+      "area_126" : "22",
       "pdk01Area_in_PP" : "22",
       "areaChange" : "-3",
+      "cell_126" : "k0mfvs203at12b1x4",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12c1x4"
    },
    {
+      "area_126" : "23",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-3",
+      "cell_126" : "k0mfvs203at12b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12c1x5"
    },
    {
+      "area_126" : "24",
       "pdk01Area_in_PP" : "24",
       "areaChange" : "-2",
+      "cell_126" : "k0mfvs203at12b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs203at12c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "21",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14b1x4"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-2",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14b2x5"
    },
    {
+      "area_126" : "21",
       "pdk01Area_in_PP" : "21",
       "areaChange" : "-2",
+      "cell_126" : "k0mfvs403at14b1x4",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14c1x4"
    },
    {
+      "area_126" : "23",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-2",
+      "cell_126" : "k0mfvs403at14b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14c1x5"
    },
    {
+      "area_126" : "23",
       "pdk01Area_in_PP" : "23",
       "areaChange" : "-2",
+      "cell_126" : "k0mfvs403at14b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tfvs403at14c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11b2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c1x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c2x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b3x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c3x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c4x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c6x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11c8x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at11bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at11ccx5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at12c4x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at12b6x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at12c6x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at12c8x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at12ccx5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0minv000at12bgx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tinv000at12cgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "14",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "cell ht updated",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlan083at11b1x5"
    },
    {
+      "area_126" : "14",
       "pdk01Area_in_PP" : "14",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mlan083at11b1x5",
       "comment1" : "cell ht updated",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlan083at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn000at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn000at11b2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "k0mlsn000at11b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn000at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "k0mlsn000at11b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn000at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn080at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "#N/A",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn080at11b2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "k0mlsn080at11b1x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn080at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "-1",
+      "cell_126" : "k0mlsn080at11b2x5",
       "comment1" : "SPC allowance, Schematic change to remove scan out removal, VT mixing removal",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tlsn080at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tltn400at14b1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mltn400at14b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tltn400at14c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmbn022at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmbn022at11b2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mmbn022at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmbn022at11c1x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "0",
+      "cell_126" : "k0mmbn022at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmbn022at11c2x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mmbn022at12b4x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmbn022at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at11b1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at11c1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "12",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmdn022at12c6x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmtn022at11b1x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mmtn022at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmtn022at11c1x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mmtn022at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "1",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmtn022at11c2x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mmtn022at12b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmtn022at12c2x5"
    },
    {
+      "area_126" : "10",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mmtn022at12b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tmtn022at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanb02at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mnanb02at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanb02at11c1x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "k0mnanb02at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanb02at11c2x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mnanb02at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanb02at11c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnand24at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnand24at11c1x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0mnand24at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnand24at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mnand24at12b2x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnand24at12c2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mnand24at12b4x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnand24at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11b2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11c1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11c4x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at11b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at11c8x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at12c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at12c8x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp02at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp02at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp03at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp03at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at11c2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp03at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at12c4x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp03at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at12c8x5"
    },
    {
+      "area_126" : "19",
       "pdk01Area_in_PP" : "19",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp03at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp03at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp04at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnanp04at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnanp04at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnor044at11b1x5",
       "comment1" : "cellname update, nor024->nor044",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnor044at11c1x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0mnor044at11b2x5",
       "comment1" : "cellname update, nor024->nor044",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnor044at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mnor044at12b2x5",
       "comment1" : "cellname update, nor024->nor044. now DH",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnor044at12c2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mnor044at12b4x5",
       "comment1" : "cellname update, nor024->nor044. now DH",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnor044at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorb02at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mnorb02at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorb02at11c1x5"
    },
    {
+      "area_126" : "6",
       "pdk01Area_in_PP" : "6",
       "areaChange" : "0",
+      "cell_126" : "k0mnorb02at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorb02at11c2x5"
    },
    {
+      "area_126" : "11",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "k0mnorb02at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorb02at11c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11b2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11c1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11c4x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at11b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at11c8x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at12c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp02at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at12c8x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mnorp02at12bcx5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp02at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp03at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp03at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at11c2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp03at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at12c4x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp03at12b8x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at12c8x5"
    },
    {
+      "area_126" : "19",
       "pdk01Area_in_PP" : "19",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp03at12bcx5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp03at12ccx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp04at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0mnorp04at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tnorp04at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toab012at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0moab012at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toab012at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0moab012at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toab012at11c2x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0moab012at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toab012at11c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0moai012at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at11c1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0moai012at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at11c2x5"
    },
    {
+      "area_126" : "13",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "0",
+      "cell_126" : "k0moai012at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at11c4x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0moai012at12b4x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at12c4x5"
    },
    {
+      "area_126" : "10",
       "pdk01Area_in_PP" : "10",
       "areaChange" : "#N/A",
+      "cell_126" : "k0moai012at12b6x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai012at12c6x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at11b1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0moai022at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0moai022at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at11c2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0moai022at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at11c4x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0moai022at12b4x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at12c4x5"
    },
    {
+      "area_126" : "14",
       "pdk01Area_in_PP" : "13",
       "areaChange" : "#N/A",
+      "cell_126" : "k0moai022at12b6x5",
       "comment1" : "new DH added since x80b",
+      "delta_126vs144" : "1",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0toai022at12c6x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0torn002at11b1x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "0",
+      "cell_126" : "k0morn002at11b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0torn002at11c1x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "0",
+      "cell_126" : "k0morn002at11b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0torn002at11c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0morn002at11b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0torn002at11c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0trm0023at12b1x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "0",
+      "cell_126" : "k0mrm0023at12b1x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0trm0023at12c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "k0mrm0023at12b2x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0trm0023at12c2x5"
    },
    {
+      "area_126" : "17",
       "pdk01Area_in_PP" : "17",
       "areaChange" : "0",
+      "cell_126" : "k0mrm0023at12b4x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0trm0023at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "cellname update, tihi/lo00->01",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0ttihi01at11b1x5"
    },
    {
+      "area_126" : "2",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "0",
+      "cell_126" : "k0mtihi01at11b1x5",
       "comment1" : "cellname update, tihi/lo00->01",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0ttihi01at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "cellname update, tihi/lo00->01",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0ttilo01at11b1x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0mtilo01at11b1x5",
       "comment1" : "cellname update, tihi/lo00->01",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0ttilo01at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "1",
+      "cell_126" : "#N/A",
       "comment1" : "gsym fix V1, Cell to be retired",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at11b1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "1",
+      "cell_126" : "#N/A",
       "comment1" : "gsym fix V1, Cell to be retired",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at11c1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnr002at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrb02at11b1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrb02at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrb02at11c1x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrb02at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrb02at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrb02at12b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrb02at12c2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrb02at12b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrb02at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrc02at11b1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrc02at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrc02at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrc02at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrc02at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrc02at12b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrc02at12c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxnrc02at12b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txnrc02at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "1",
+      "cell_126" : "#N/A",
       "comment1" : "gsym fix V1, Cell to be retired",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at11b1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "1",
+      "cell_126" : "#N/A",
       "comment1" : "gsym fix V1, Cell to be retired",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at11c1x7"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at11c2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "11",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
       "comment1" : "Cell not supported in xchip",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txor002at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorb02at11b1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorb02at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorb02at11c1x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorb02at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorb02at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorb02at12b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorb02at12c2x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorb02at12b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorb02at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorc02at11b1x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorc02at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorc02at11c1x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorc02at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorc02at11c2x5"
    },
    {
+      "area_126" : "5",
       "pdk01Area_in_PP" : "5",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorc02at12b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorc02at12c2x5"
    },
    {
+      "area_126" : "9",
       "pdk01Area_in_PP" : "9",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mxorc02at12b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0txorc02at12c4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tydp122at11b0x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "0",
+      "cell_126" : "k0mydp122at11b0x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tydp133at11c0x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11b2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11b3x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11b4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11b8x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11bgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "32",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11bwx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "64",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce22at11htx5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11c1x5"
    },
    {
+      "area_126" : "2",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11c2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11b3x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11c3x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11c4x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11b8x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11c8x5"
    },
    {
+      "area_126" : "16",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11bgx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11cgx5"
    },
    {
+      "area_126" : "32",
       "pdk01Area_in_PP" : "32",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11bwx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11cwx5"
    },
    {
+      "area_126" : "64",
       "pdk01Area_in_PP" : "64",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfce22at11htx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfce33at11itx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11b1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11b2x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11b3x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11b4x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11b8x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11bgx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "32",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11bwx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "64",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco22at11htx5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11c1x5"
    },
    {
+      "area_126" : "2",
       "pdk01Area_in_PP" : "2",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11b2x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11c2x5"
    },
    {
+      "area_126" : "3",
       "pdk01Area_in_PP" : "3",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11b3x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11c3x5"
    },
    {
+      "area_126" : "4",
       "pdk01Area_in_PP" : "4",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11b4x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11c4x5"
    },
    {
+      "area_126" : "8",
       "pdk01Area_in_PP" : "8",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11b8x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11c8x5"
    },
    {
+      "area_126" : "16",
       "pdk01Area_in_PP" : "16",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11bgx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11cgx5"
    },
    {
+      "area_126" : "32",
       "pdk01Area_in_PP" : "32",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11bwx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11cwx5"
    },
    {
+      "area_126" : "64",
       "pdk01Area_in_PP" : "64",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfco22at11htx5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfco33at11itx5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfle22at11b1x5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfle22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfle33at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzflo22at11b1x5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzflo22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzflo33at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfre22at11b1x5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfre22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfre33at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "#N/A",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfro22at11b1x5"
    },
    {
+      "area_126" : "1",
       "pdk01Area_in_PP" : "1",
       "areaChange" : "#N/A",
+      "cell_126" : "k0mzfro22at11b1x5",
       "comment1" : "new topologies added from x80b",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzfro33at11c1x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzvcc00at11b0x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mzvcc00at11b0x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzvcc00at11c0x5"
    },
    {
+      "area_126" : "#N/A",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "#N/A",
+      "delta_126vs144" : "#N/A",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzvss00at11b0x5"
    },
    {
+      "area_126" : "7",
       "pdk01Area_in_PP" : "7",
       "areaChange" : "0",
+      "cell_126" : "k0mzvss00at11b0x5",
+      "delta_126vs144" : "0",
       "comment2" : "area_comparison_24ww26",
       "source_tab_comp3" : "k0tzvss00at11c0x5"
    }
